@@ -1,5 +1,6 @@
-title: Welcome to my blog yay!
-{:toc}
+---
+toc: true
+---
 
 # one
 # two
