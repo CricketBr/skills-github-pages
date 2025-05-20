@@ -6,6 +6,11 @@ before toc
 
 after toc
 
+{:toc}
+
+after 2nd toc
+
+
 # one
 text
 # two
