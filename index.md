@@ -2,7 +2,8 @@ text of a sort
 
 before toc
 
-* TOC {:toc}
+* TOC
+{:toc}
 
 after toc
 
