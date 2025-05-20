@@ -1,8 +1,8 @@
 text of a sort
 
-before toc 2 3
+before toc 2 3 4
 
-
+1. tocw
 {:toc}
 
 after toc
