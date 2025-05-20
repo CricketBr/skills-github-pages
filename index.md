@@ -1,6 +1,6 @@
 text of a sort
 
-before toc
+before toc 2
 
 * TOC
 {:toc}
