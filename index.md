@@ -1,6 +1,6 @@
 text of a sort
 
-{:toc}
+* TOC {:toc}
 
 # one
 text
